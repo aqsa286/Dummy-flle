@@ -1,7 +1,7 @@
 # Use an official PHP image with Apache12345
 FROM php:7.4-apache
 
-# Install any necessary dependencies
+# Install any necessary dependenciesccc
 RUN apt-get update && apt-get install -y \
     libpng-dev \
     libjpeg-dev \
